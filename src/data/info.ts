@@ -2,51 +2,47 @@ export const info = {
   baseUrl: "https://harish-chandran.vercel.app/",
   name: "Harish Chandran",
   jobDescription: "Student",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  about: `I am currently a Sophomore at Vellore Institute of Technology Chennai, India pursuing a B-Tech in Computer Science with a specialization in AI and Robotics.
+    I am a tech enthusiast exploring the various fields of CS, trying to find my niche.
+    I started my coding journey in the 12th grade and I have been enjoying it ever since.
+    I love building things and enjoy optimizing the ins and outs of them even more.
+    I started with Python and built anything and everything from web servers to desktop and mobile apps to automation scripts and gradually started branching out to difference languages like C, C++, Java, etc.
+    Some of my favourite frameworks and tools to work with include Flask, FastAPI, MongoDB, FireBase, MySQL, Git, GitHub, WSL, Neovim, Postman, etc.
+    I am currently exploring Web Dev, Compiler Design and Competetive Programming.
+    In my free time, I like to play football, play the electric guitar and participate in CTFs.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "IEEE Computer Society",
+      location: "Technical Team Member",
+      startDate: "Nov 2023",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Developing the backend for the recruitments website of the club.", 
+        "- Contributing to several internal management repos",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Technocrats Robotics",
+      location: "Rover Programming Team Member",
+      startDate: "Sep 2023",
+      endDate: "Present",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "- Contributing to developing the autonomous tracking capabilities of the rover",
+        "- Reached the finals of IRC 2023 (International  Rover Challenge)",
       ],
     },
 
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "Google Developer Student Club",
+      location: "Open Source Team Member",
+      startDate: "Jan 2023",
+      endDate: "Present",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "- Contributed to multiple internal and external open source projects",
+        "- Helped organize introductory sessions to Git, GitHub and Hacktoberfest to guide juniors into the world of Open Source",
       ],
     },
   ],
