@@ -49,36 +49,29 @@ export const info = {
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Vellore Institute of Technology",
+      location: "Chennai, IND",
+      startDate: "Sep 2022",
+      endDate: "Present",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+       "B.Tech - Computer Science and Engineering, Specializaiton in AI and Robotics",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "Sri Kumaran Children’s Home",
+      location: "Bangalore, IND",
+      startDate: "Jun 2010",
+      endDate: "Mar 2022",
+      description: [
+       "Central Board of Secondary Education, Phy-Chem-Math-CS"
+      ],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    github: "https://github.com/HarishChandran3304",
+    email: "mailto:harish3304.work@gmail.com",
+    linkedin: "https://www.linkedin.com/in/harish3304/",
   },
 
   projects: [
