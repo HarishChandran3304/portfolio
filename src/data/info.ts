@@ -19,8 +19,8 @@ export const info = {
       startDate: "Nov 2023",
       endDate: "Present",
       description: [
-        "- Developing the backend for the recruitments website of the club.", 
-        "- Contributing to several internal management repos",
+        "- Developed the backend for the recruitments website of the club", 
+        "- Contributed to several internal management repos",
       ],
     },
 
@@ -30,7 +30,7 @@ export const info = {
       startDate: "Sep 2023",
       endDate: "Present",
       description: [
-        "- Contributing to developing the autonomous tracking capabilities of the rover",
+        "- Contributed to developing the autonomous tracking capabilities of the rover",
         "- Reached the finals of IRC 2023 (International  Rover Challenge)",
       ],
     },
@@ -76,11 +76,34 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "HealthBot",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/healthbot.png",
+      githubUrl: "https://github.com/robinroy03/healthbot",
+    },
+    {
+      title: "Alg-Vis",
+      isFeatured: true,
+      thumbnail: "/assets/images/alg-vis.svg",
+      githubUrl: "https://github.com/HarishChandran3304/alg-vis"
+    },
+    {
+      title: "Interakt",
+      isFeatured: true,
+      thumbnail: "/assets/images/interakt.png",
+      githubUrl: "https://github.com/HarishChandran3304/interakt"
+    },
+    {
+      title: "Gone",
+      isFeatured: true,
+      thumbnail: "/assets/images/gone.png",
+      githubUrl: "https://github.com/HarishChandran3304/gone"
+    },
+    {
+      title: "TicTacToe Engine",
+      isFeatured: false,
+      thumbnail: "/assets/images/tictactoe.png",
+      githubUrl: "https://github.com/HarishChandran3304/TicTacToeEngine"
     },
   ],
 };
